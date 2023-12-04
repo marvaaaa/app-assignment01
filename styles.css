@@ -1,0 +1,28 @@
+H1{COLOR:BLACK;
+    BACKGROUND-COLOR:CYAN;
+    FONT-SIZE:40PX;
+    TEXT-ALIGN:CENTER;
+    border:1px dashed}
+H2{COLOR:BLACK;
+BACKGROUND-COLOR:CYAN;
+TEXT-ALIGN:CENTER;
+border:1px dashed}
+IMG{MARGEN:AUTO;
+DISPLAY:BLACK;
+FIOAT:RIGHT;}
+STRONG{COLOR:CYAN;
+BACKGROUND-COLOR:BLACK;}
+section{
+background-color:pink;
+margin:40px;
+padding:20px;
+border:4px dashed }
+body{
+background-color:cyan}
+html{border:5px dashed }
+footer{
+background-color:pink;
+border:2px dashed; 
+margin:40px;
+text-align:center;}
+
